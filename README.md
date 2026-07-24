@@ -95,9 +95,9 @@ Correlation analysis was performed to identify relationships between numerical f
 
 # 🤖 Machine Learning Model
 
-## Random Forest Classifier
+## 🌲 Feature Importance Analysis
 
-A Random Forest Classifier was used to identify the most influential factors contributing to loan default prediction.
+A Random Forest model was used to analyze feature importance and identify which variables contributed most to loan default patterns.
 
 ### Top Important Features:
 
@@ -107,6 +107,8 @@ A Random Forest Classifier was used to identify the most influential factors con
 4. Credit Score
 5. Age
 6. Months Employed
+
+The feature importance analysis helps identify the major factors associated with customer default risk and supports better credit risk assessment.
 
 ![Feature Importance](./images/feature_importance.png)
 
