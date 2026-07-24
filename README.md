@@ -108,7 +108,7 @@ A Random Forest Classifier was used to identify the most influential factors con
 5. Age
 6. Months Employed
 
-![Feature Importance](images/feature_importance.png)
+![Feature Importance](images/Feature_Importance.png)
 
 ---
 
