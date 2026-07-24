@@ -85,7 +85,35 @@ Top Important Features:
 
 ## 📸 Project Screenshots
 
-> *(Add your charts and feature importance screenshots here after uploading them to the `Images` folder.)*
+### 📊 Loan Default Distribution
+
+This chart shows the distribution of customers who defaulted versus those who repaid their loans. The dataset is imbalanced, with approximately **88% non-defaults** and **12% defaults**.
+
+![Loan Default Distribution](images/default_distribution.png)
+
+---
+
+### 💰 Income Analysis
+
+Customers with lower average incomes were more likely to default. Income emerged as one of the strongest predictors of loan default.
+
+![Income Analysis](images/income_analysis.png)
+
+---
+
+### 💳 Loan Amount Analysis
+
+Customers with larger loan amounts showed a higher probability of default, indicating that loan size plays an important role in credit risk.
+
+![Loan Amount Analysis](images/loan_amount_analysis.png)
+
+---
+
+### 🤖 Feature Importance
+
+A Random Forest model was used to rank the importance of different variables. Income, Interest Rate, Loan Amount, Credit Score, and Months Employed were among the most influential features.
+
+![Feature Importance](images/feature_importance.png)
 
 ---
 
