@@ -155,6 +155,8 @@ Bank-Loan-Risk-Analysis/
 ├── README.md
 └── requirements.txt
 
+```
+
 ## 👩‍💻 Author
 
 **Prajakta Panchbuddhe**
