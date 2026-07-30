@@ -1,18 +1,18 @@
 # 🏦 Bank Loan Risk Analysis
 
-## 📌 Project Overview
+##  Project Overview
 
 This project analyzes customer loan data to identify the key factors influencing loan default. Using Python, Exploratory Data Analysis (EDA), statistical analysis, and a Random Forest machine learning model, this project uncovers patterns that can help financial institutions improve credit risk assessment and lending decisions.
 
 ---
 
-## 🎯 Business Problem
+##  Business Problem
 
 Loan defaults result in significant financial losses for banks and lending institutions. The objective of this project is to analyze customer characteristics, identify major factors associated with loan default, and provide actionable business recommendations using data-driven insights.
 
 ---
 
-## 📂 Dataset Overview
+##  Dataset Overview
 
 - **Total Records:** 255,347
 - **Total Features:** 18
@@ -22,7 +22,7 @@ Loan defaults result in significant financial losses for banks and lending insti
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - Python
 - Pandas
@@ -34,7 +34,7 @@ Loan defaults result in significant financial losses for banks and lending insti
 
 ---
 
-## 📊 Project Workflow
+##  Project Workflow
 
 - Data Loading & Exploration
 - Data Cleaning & Validation
@@ -48,7 +48,7 @@ Loan defaults result in significant financial losses for banks and lending insti
 
 ---
 
-# 📈 Exploratory Data Analysis & Insights
+#  Exploratory Data Analysis & Insights
 
 ## Loan Default Distribution
 
@@ -61,7 +61,7 @@ The dataset contains more non-default customers compared to default customers.
 
 ---
 
-## 💰 Income Analysis
+##  Income Analysis
 
 Income was analyzed to understand its relationship with loan repayment behavior. Customers with lower income levels showed a higher probability of default.
 
@@ -69,7 +69,7 @@ Income was analyzed to understand its relationship with loan repayment behavior.
 
 ---
 
-## 💳 Loan Amount Analysis
+##  Loan Amount Analysis
 
 Loan amount plays an important role in credit risk assessment. Customers with larger loan amounts showed increased default probability.
 
@@ -77,7 +77,7 @@ Loan amount plays an important role in credit risk assessment. Customers with la
 
 ---
 
-## 📊 Credit Score Analysis
+##  Credit Score Analysis
 
 Credit score was analyzed to understand its impact on customer default behavior. Although it showed limited linear correlation, it remained an important predictive feature in the machine learning model.
 
@@ -85,7 +85,7 @@ Credit score was analyzed to understand its impact on customer default behavior.
 
 ---
 
-## 🔗 Correlation Analysis
+##  Correlation Analysis
 
 Correlation analysis was performed to identify relationships between numerical features and understand feature interactions.
 
@@ -93,9 +93,9 @@ Correlation analysis was performed to identify relationships between numerical f
 
 ---
 
-# 🤖 Machine Learning Model
+#  Machine Learning Model
 
-## 🌲 Feature Importance Analysis
+##  Feature Importance Analysis
 
 A Random Forest model was used to analyze feature importance and identify which variables contributed most to loan default patterns.
 
@@ -114,18 +114,18 @@ The feature importance analysis helps identify the major factors associated with
 
 ---
 
-# 🔍 Key Findings
+#  Key Findings
 
-- 💰 Income was one of the strongest predictors of loan default.
-- 💳 Higher loan amounts were associated with increased default risk.
-- 📉 Higher interest rates showed a relationship with higher default probability.
-- 💼 Longer employment history reduced default risk.
-- 📊 Credit Score contributed significantly to model prediction.
-- 👨‍👩‍👧 Mortgage status, dependents, and co-signer information had lower predictive importance.
+-  Income was one of the strongest predictors of loan default.
+-  Higher loan amounts were associated with increased default risk.
+-  Higher interest rates showed a relationship with higher default probability.
+-  Longer employment history reduced default risk.
+-  Credit Score contributed significantly to model prediction.
+-  Mortgage status, dependents, and co-signer information had lower predictive importance.
 
 ---
 
-# 💼 Business Recommendations
+#  Business Recommendations
 
 - Prioritize customer income evaluation during loan approval.
 - Apply additional risk checks for customers requesting larger loan amounts.
@@ -135,7 +135,7 @@ The feature importance analysis helps identify the major factors associated with
 
 ---
 
-# 📁 Repository Structure
+#  Repository Structure
 
 ```text
 Bank-Loan-Risk-Analysis/
@@ -159,7 +159,7 @@ Bank-Loan-Risk-Analysis/
 
 ```
 
-## 👩‍💻 Author
+##  Author
 
 **Prajakta Panchbuddhe**
 
@@ -169,4 +169,4 @@ Aspiring Data Analyst
 
 ---
 
-⭐ If you found this project interesting, feel free to explore the notebook and connect with me on LinkedIn!
+ If you found this project interesting, feel free to explore the notebook and connect with me on LinkedIn!
